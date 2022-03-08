@@ -1,4 +1,3 @@
 # WilliamGeo.github.io
-Personal Website
 
-updated
+www.williamGeo.github.io
