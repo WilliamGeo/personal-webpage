@@ -1,3 +1,4 @@
 # WilliamGeo.github.io
 
-www.williamGeo.github.io
+The Website can be found at:
+https://williamgeo.github.io/
