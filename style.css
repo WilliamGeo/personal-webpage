@@ -1,2 +1,99 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size:18px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size:45px;
+    text-align: left;    
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size:45px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size:28px;
+    text-decoration: underline;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+li a:hover {
+    background-color: #111;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+ul{
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    background-color: #333;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding:0px;
+}
+
+.flex-container > ul {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    background-color: #333;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding:0px;
+}
+
+footer {
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    text-align: left;
+    color: #666;
+    background-color: #333;
+}
