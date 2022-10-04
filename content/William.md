@@ -15,9 +15,9 @@ For more information please follow the links below.
 |![](https://georgeson.dev/cdn/svg/github.svg)   | https://github.com/WilliamGeo            |
 |![](https://georgeson.dev/cdn/svg/gitlab.svg)   | https://gitlab.com/WilliamGeo            |
 |![](https://georgeson.dev/cdn/svg/linkedin.svg) | https://www.linkedin.com/in/williamgeo1/ |
-|| https://stackoverflow.com/users/17517099  |
-|| https://twitter.com/WilliamGoGo_ |
-|| https://will.georgeson.dev/  |
+|![](https://georgeson.dev/cdn/svg/stackoverflow.svg) | https://stackoverflow.com/users/17517099  |
+|![](https://georgeson.dev/cdn/svg/twitter.svg)  | https://twitter.com/WilliamGoGo_ |
+|![](https://georgeson.dev/cdn/svg/globe.svg)    | https://will.georgeson.dev/  |
 
 ## Events 
 
