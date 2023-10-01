@@ -1,0 +1,26 @@
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.profile-header {
+    margin: 0px;
+    padding-top: 50px;
+}
+
+body {
+    text-align: center;
+}
+
+.profile-picture {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    transition: transform 0.3s; 
+  }
+  
+  .profile-picture:hover {
+    transform: scale(1.1); 
+  }
+  

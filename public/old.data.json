@@ -1,0 +1,80 @@
+{
+  "avatarPath": "https://avatars.githubusercontent.com/u/73065169",
+  "fullName": "William Georgeson",
+  "headline": "Software Engineer",
+  "location": "Manchester, UK",
+  "DOB": "986899200",
+  "social": {
+      "discord": "",
+      "email": "williamgeo@protonmail.com",
+      "facebook": "",
+      "github": "https://github.com/WilliamGeo",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/williamgeo1",
+      "mastodon": "",
+      "reddit": "",
+      "snapchat": "",
+      "twitter": "https://twitter.com/WilliamGoGo_"        
+  },
+
+  "certifications": 
+    "id"{
+    "Title": "",
+    "Grade": "",
+    "Date": ""
+  },
+
+  "content": {
+
+  }
+
+  "programmingLanguages": {
+      "bash": false,
+      "c": false,
+      "c_plus_plus": false,
+      "c_sharp": false,
+      "css": false,
+      "dart": false,
+      "dot_net": false,
+      "go": false,
+      "godot_script": false,
+      "html": false,
+      "java": false,
+      "javascript": false,
+      "kotlin": false,
+      "lua": false,
+      "matlab": false,
+      "perl": false,
+      "php": false,
+      "python": false,
+      "r": false,
+      "ruby": false,
+      "rust": false,
+      "scala": false,
+      "scratch": false,
+      "swift": false,
+      "typescript": false,
+      "visual_basic": false
+  },
+
+  "operatingSystems": {
+      "android": false,
+      "ios": false,
+      "linux": false,
+      "linux_server": false,
+      "macos": false,
+      "windows": false
+  },
+
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+}

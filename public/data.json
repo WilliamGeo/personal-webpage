@@ -1,0 +1,201 @@
+{
+  "profilePicture": "https://avatars.githubusercontent.com/u/73065169",
+  "name": "William Georgeson",
+  "age": 22,
+  "headline": "Jr. Software Engineer",
+  "location": "Manchester, UK",
+  "description": "I am a software developer.",
+  "experiences": [
+    {
+      "title": "Assistant Developer",
+      "company": "N/A",
+      "icon": null,
+      "duration": "Oct 2021 - Present",
+      "description": "Small Indie Game Company developing games since 2021. Originally volenteered as a Games Developer, I have been put on many tasks. Biggest being the development of the website, learning new skills such as the use of Git and developing current ones. This is purely a vocational project used to develop my skills. I have organised a handful of community events with the fans of the games produced by the company. Moderating VRChat meetups and Discord server, getting community feedback on games and events from the people to imporve the experience for the users."
+    },
+    {
+      "title": "Customer Assistant (Trading/Petrol)",
+      "company": "Booths",
+      "icon": "/svg/booths.svg",
+      "duration": "Oct 2022 - July 2023",
+      "description": ""
+    },
+    {
+      "title": "Customer Assistant (Trading)",
+      "company": "Booths",
+      "icon": "/svg/booths.svg",
+      "duration": "Nov 2021 - Jan 2022",
+      "description": "Working a Christmas Temporary position at Booths. To add to the small student loan I took to working part time at the Christmas period in order to pay for student living"
+    },
+    {
+      "title": "Customer Assistant",
+      "company": "Home Bargins",
+      "icon": "/svg/homebargins.svg",
+      "duration": "Oct 2018 - Mar 2019",
+      "description": "During my time at College I was able to save up some money, working a part time job to fund my further education."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "TVS Supply Chain Solutions",
+      "icon": "/svg/tvsscs.svg",
+      "duration": "Nov 2019 - Feb 2020",
+      "description": "T-Level Placement, 2 days a week. This was a chance for me to see what being a Software Developer was all about. During this short period of time I had learnt some vital skills about the workplace, such as punctuality, team work, software testing and various technical skills. Some of the work I did at TVS was learn Python, Linux, Raspberry Pi, Visual Studio Code & problem solving skills. The project I was developing was a facial recognition, security system. During the development of this I came into countless errors and issues, which although irritating, developed my understanding of the language/system."
+    },
+    {
+      "title": "ROQ Defectives Challenge",
+      "company": "ROQ",
+      "icon": "",
+      "duration": "December 2021",
+      "description": "The Defectives was a competition to bring local universities together to test websites for defects earning points for every defect found. Points are earned for your team of 4 as well as for your University. My team came 3rd place overall with the University came 1st for overall against all the other Universities."
+    },
+    {
+      "title": "Google Expo",
+      "company": "Target Careers",
+      "icon": "",
+      "duration": "Oct 2017",
+      "description": "I was fortunate to go to London for a day to experience an apprentiship event hosted by Google with a range of other top businesses such as Bloomsburg, IBM, Goldman Sachs, BT, etc. To better understand alternative educational routes to being a software developer."
+    }
+  ],
+  "education": [
+    {
+      "school": "Edge Hill University",
+      "icon": "/svg/edgehill.svg",
+      "degree": "BSc (Hons) Computing (Games Programming)",
+      "duration": "Oct 2020 - July 2023",
+      "grade": "Upper Second-Class Honours 2:1",
+      "description": ""
+    },
+    {
+      "school": "Cardinal Nerwman College Preston",
+      "icon": "/img/cardinal-newman.jpg",
+      "degree": "Extended Diploma (Three A-Level Equivilent), IT (Software Development) (QCF)",
+      "duration": "Sep 2018 - July 2020",
+      "grade": "D*D*D*",
+      "description": ""
+    },
+    {
+      "school": "Cardinal Nerwman College Preston",
+      "icon": "/img/cardinal-newman.jpg",
+      "degree": "First Cirtificate (GCSE Equivilent), Information and Creative Technology",
+      "duration": "Aug 2017 - July 2018",
+      "grade": "DM",
+      "description": ""
+    }
+  ],
+  "socials": [
+    {
+      "name": "Twitter",
+      "icon": "/svg/twitter.svg",
+      "url": "https://twitter.com/WilliamGoGo_"
+    },
+    {
+      "name": "Discord",
+      "icon": "/svg/discord.svg",
+      "url": "https://discord.com/users/756248013600587796"
+    },
+    {
+      "name": "Email",
+      "icon": "/svg/envelope.svg",
+      "url": "mailto:williamgeo@protonmail.com"
+    },
+    {
+      "name": "GitHub",
+      "icon": "/svg/github.svg",
+      "url": "https://github.com/WilliamGeo"
+    },
+    {
+      "name": "GitLab",
+      "icon": "/svg/gitlab.svg",
+      "url": "https://gitlab.com/WilliamGeo"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "/svg/linkedin.svg",
+      "url": "https://www.linkedin.com/in/williamgeo1/"
+    },
+    {
+      "name": "Codecademy",
+      "icon": "/svg/codecademy.svg",
+      "url": "https://www.codecademy.com/profiles/WilliamGeo"
+    },
+    {
+      "name": "Stackoverflow",
+      "icon": "/svg/stackoverflow.svg",
+      "url": "https://www.stackoverflow.com/users/WilliamGeo"
+    },
+    {
+      "name": "Microsoft Learn",
+      "icon": "/svg/microsoft.svg",
+      "url": "https://learn.microsoft.com/en-us/users/williamgeo/"
+    }
+  ],
+  "skills": {
+    "Programming Languages": [
+      { "name": "C++", "icon": "/svg/cplusplus.svg", "url": "https://isocpp.org/" },
+      { "name": "C#", "icon": "/svg/csharp.svg", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/" },
+      { "name": ".NET", "icon": "/svg/dotnet.svg", "url": "https://dotnet.microsoft.com/" },
+      { "name": "Godot Script", "icon": "/svg/godotengine.svg", "url": "https://godotengine.org/" },
+      { "name": "Java", "icon": "/svg/openjdk.svg", "url": "" },
+      { "name": "Visual Basic", "icon": "/svg/visualbasic.svg", "url": "" },
+      { "name": "Python", "icon": "/svg/python.svg", "url": "https://python.org" },
+      { "name": "Bash", "icon": "/svg/gnubash.svg", "url": "" },
+      { "name": "Scratch", "icon": "/svg/scratch.svg", "url": "https://scratch.mit.edu/" },
+      { "name": "Node.js", "icon": "/svg/nodedotjs.svg", "url": "" },
+      { "name": "Node Package Manager", "icon": "/svg/npm.svg", "url": "" },
+      { "name": "JavaScript", "icon": "/svg/javascript.svg", "url": "" },
+      { "name": "Cascading Style Sheets", "icon": "/svg/css3.svg", "url": "" },
+      { "name": "HyperText Markup Language", "icon": "/svg/html5.svg", "url": "" }
+    ],
+    "Operating Systems": [
+      { "name": "MacOS", "icon": "/svg/macos.svg", "url": "https://www.apple.com/uk/macos" },
+      { "name": "Linux", "icon": "/svg/linux.svg", "url": "https://www.linux.org" },
+      { "name": "Windows", "icon": "/svg/windows.svg", "url": "https://www.microsoft.com/windows" },
+      { "name": "Android", "icon": "/svg/android.svg", "url": "https://developer.android.com" },
+      { "name": "iOS", "icon": "/svg/ios.svg", "url": "https://www.apple.com/uk/ios" },
+      { "name": "Ubuntu Server", "icon": "/svg/ubuntu.svg", "url": "https://ubuntu.com/" }
+    ],
+    "Technical Knowledge": [
+      { "name": "Git", "icon": "/svg/git.svg", "url": "" },
+      { "name": "Markdown", "icon": "/svg/markdown.svg", "url": "" },
+      { "name": "Blender", "icon": "/svg/blender.svg", "url": "" },
+      { "name": "OneDrive", "icon": "/svg/microsoftonedrive.svg", "url": "" },
+      { "name": "Azure", "icon": "/svg/microsoftazure.svg", "url": "" },
+      { "name": "Microsoft Office", "icon": "/svg/microsoftoffice.svg", "url": "" },
+      { "name": "Docker", "icon": "/svg/docker.svg", "url": "" },
+      { "name": "Raspberry Pi", "icon": "/svg/raspberrypi.svg", "url": "" },
+      { "name": "Visual Studio Code", "icon": "/svg/visualstudiocode.svg", "url": "" }
+    ],
+    "Game Engines": [
+      { "name": "Unity Game Engine", "icon": "/svg/unity.svg", "url": "https://unity.com" },
+      { "name": "Godot Game Engine", "icon": "/svg/godotengine.svg", "url": "https://godotengine.org/" },
+      { "name": "Unreal Engine", "icon": "/svg/unrealengine.svg", "url": "https://www.unrealengine.com" }
+    ],
+    "Learning...": [
+      { "name": "Udemy", "icon": "/svg/udemy.svg", "url": "https://www.udemy.com" },
+      { "name": "Codecademy", "icon": "/svg/codecademy.svg", "url": "" },
+      { "name": "YouTube", "icon": "/svg/youtube.svg", "url": "https://www.youtube.com" },
+      { "name": "Sololearn", "icon": "/svg/sololearn.svg", "url": "" },
+      { "name": "Rust", "icon": "/svg/rust.svg", "url": "" },
+      { "name": "Grafana", "icon": "/svg/grafana.svg", "url": "" },
+      { "name": "Deno.js", "icon": "/svg/deno.svg", "url": "" },
+      { "name": "GraphQL", "icon": "/svg/graphql.svg", "url": "" },
+      { "name": "MongoDB", "icon": "/svg/mongodb.svg", "url": "" },
+      { "name": "SQL", "icon": "/svg/sqlite.svg", "url": "" }
+    ]},
+    "certifications": [
+      { "name": "Azure Fundamentals (AZ-900)", "date": "04 May 2022", "icon": "/svg/microsoftazure.svg", "url": "https://learn.microsoft.com/en-us/certifications/exams/az-900/" },
+      { "name": "LinkedIn Skill Assessment Bash", "date": "15 Feb 2023", "icon": "/svg/gnubash.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment C#", "date": "17 Mar 2022", "icon": "/svg/csharp.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment C++", "date": "21 Mar 2022", "icon": "/svg/cplusplus.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assesment CSS", "date": "02 Jul 2023", "icon": "/svg/css3.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment Git", "date": "15 Feb 2023", "icon": "/svg/git.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment HTML", "date": "24 Aug 2023", "icon": "/svg/html5.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },  
+      { "name": "LinkedIn Skill Assessment Linux", "date": "17 Mar 2022", "icon": "/svg/linux.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment OOP", "date": "24 Aug 2023", "icon": "/svg/linkedin.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "LinkedIn Skill Assessment Python", "date": "21 Mar 2022", "icon": "/svg/python.svg", "url": "https://www.linkedin.com/in/williamgeo1/" },
+      { "name": "Microsoft Foundational C#", "date": "TBC", "icon": "/svg/microsoft.svg", "url": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/" }
+    ],
+    "Vocational Projects": [
+      { "name": "", "url": ""}
+    ]
+}

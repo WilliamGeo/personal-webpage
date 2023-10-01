@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400&display=swap');
+
+* {
+
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+.header {
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px;
+  color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Frosted Effect */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.2); /* Adjust color and opacity */
+  backdrop-filter: blur(10px); /* Adjust blur amount */
+  z-index: 100; /* Ensure the header is above other content */
+}
+
+.footer {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: black;
+  bottom: 0;
+  right: 0;
+}
+  
+.logo img {
+  height: 40px;
+  width: auto;
+  padding-left: 20%;
+}
+
+nav {
+  padding-right: 2%;
+}
+  
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  color:gray;
+  transition: color 0.3s ease-in-out;
+  color: inherit;
+}
+
+/* Mobile Compatability */
+
+@media (max-width: 768px) {
+  
+}
