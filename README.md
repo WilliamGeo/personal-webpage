@@ -1,7 +1,8 @@
 # WilliamGeo.github.io
 
 The Website can be found at:
-https://williamgeo.github.io/
+- https://williamgeo.github.io/
+- https://will.georgeson.dev
 
 ## Pages
 ### Home
@@ -20,8 +21,17 @@ https://williamgeo.github.io/
 
 - Primary School
 
-### Projects
+### Work Experience
+- Tesco
 
+- Booths
+
+- N/A Game Company
+
+- Home Bargins
+
+### Projects
+- Website
 
 ### Online Resume
 
