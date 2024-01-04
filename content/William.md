@@ -142,6 +142,11 @@ I have been lucky enough to of worked a number of very professional jobs which h
 - Learning Back-end server development
 - Taking charge of a project, assigning people tasks and organising
 
+### Tesco
+*19th October 2023*
+- Christmas Temporary position at Tesco
+- This was taken on as a temporary position to earn myself money for assisting my family and driving for opertunities that require relocation over distances.
+
 ### Booths
 - Christmas Temporary position at Booths
 - To add to the small student loan I took to working part time at the Christmas period in order to pay for student living
